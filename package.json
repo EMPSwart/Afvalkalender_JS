@@ -1,0 +1,30 @@
+{
+  "name": "webapp_template",
+  "version": "1.1.1",
+  "description": "",
+  "main": "1",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EMPSwart/webapp_template.git"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "Erik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EMPSwart/webapp_template/issues"
+  },
+  "homepage": "https://github.com/EMPSwart/webapp_template#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "grunt": "^1.0.1",
+    "grunt-babel": "^7.0.0",
+    "grunt-contrib-uglify": "^3.2.1",
+    "grunt-minified": "0.0.6"
+  }
+}
